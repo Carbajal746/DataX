@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-# Configuration globale
+# Configuration globale.
 st.set_page_config(page_title="DataX", layout="wide")
 
 # Gestion de la navigation via une variable de session
